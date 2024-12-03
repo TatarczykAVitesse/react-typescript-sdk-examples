@@ -2,7 +2,7 @@
 // Replace authorizationKey with your client-side SDK key.
 const config: SplitIO.IBrowserSettings = {
   core: {
-    authorizationKey: '<your-sdk-key>',
+    authorizationKey: 'localhost',
     key: '<customer-key>'
   }
 };
